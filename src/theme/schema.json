@@ -1,0 +1,88 @@
+{
+  "data" : {
+      "day" : {
+          "id": "T_001",
+          "name": "Day",
+          "colors": {
+              "body": "linear-gradient(to top, #fbc2eb 0%, #a18cd1 100%)",
+              "text": "#000000",
+              "button": {
+                  "text": "#050202",
+                  "background": "#F37DE9"
+              },
+              "card": {
+                "background": "#000000",
+                "text": "#FFFFFF"                
+              },
+              "link": {
+                  "text": "teal",
+                  "opacity": 1
+              }
+          },          
+          "font": "Tinos"
+      },
+      "night" : {
+          "id": "T_002",
+          "name": "Night",
+          "colors": {
+              "body": "linear-gradient(to top, #000000 0%, #3F3F3F 100%)",
+              "text": "#FFFFFF",
+              "button": {
+                  "text": "#000000",
+                  "background": "#FFFFFF"
+              },              
+              "card": {
+                "background": "#2E2933",
+                "text": "#FFFFFF"                
+              },
+              "link": {
+                  "text": "teal",
+                  "opacity": 1
+              }
+          },
+          "font": "Roboto"
+      },
+      "forest" : {
+          "id": "T_004",
+          "name": "Forest",
+          "colors": {
+              "body": "linear-gradient(to top, #027230 0%, #74C495 100%)",
+              "text": "#292500",
+              "button": {
+                  "text": "#FFFFFF",
+                  "background": "#035214"
+              },              
+              "card": {
+                "background": "#082212",
+                "text": "#FFFFFF"
+              },
+              "link": {
+                  "text": "#292500",
+                  "opacity": 0.8
+              }
+          },
+          "font": "Kufam"
+      },
+      "sea" : {
+          "id": "T_005",
+          "name": "Sea",
+          "colors": {
+              "body": "#81C8F8",
+              "text": "#010D50",
+              "button": {
+                  "text": "#03020C",
+                  "background": "#3184D1"
+              },              
+              "card": {
+                "background": "#011241",
+                "text": "#FFFFFF"
+              },
+              "link": {
+                  "text": "#002b24",
+                  "opacity": 0.8
+              }
+          },
+          "font": "Nunito Sans"
+      }
+  }
+}
